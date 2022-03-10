@@ -1,0 +1,13 @@
+:root {
+    --turkiz: rgb(18, 112, 132);
+}
+
+.big-title {
+    font-size: 5em;
+}
+
+@media only screen and (max-width: 768px) {
+    .big-title {
+      font-size: 3em;
+    }
+}
